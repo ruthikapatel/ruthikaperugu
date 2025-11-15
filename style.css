@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin:  0px;
+}
+ul{
+    border: solid 1px;
+    width: 330px;
+    position: fixed;
+    height: 100%;
+    background-color: pink;
+    padding-top: navy;
+    list-style: none;
+    ;
+}
+#text1{
+    color:pink 40px;
+    font-size: 40px;
+}
+#text2{
+    color:blueviolet 40px;
+    font-size: 40px;
+}
+ul li{
+    border: solid 1px;
+    height: 50px;
+    width: 150px;
+    margin-left: 90px;
+    background-color: papayawhip;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+ul li a{
+    color: navy;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul li:hover{
+    background-color: aqua;
+}
+#Home{
+    border: solid 1px;
+    height: 630px;
+    background-color: aquamarine;
+    padding-left: 340px;
+}
+#text3{
+    color: navy;
+    font-size: 60px;
+}
+#text4{
+    color: navy;
+    font-size: 60px;
+}
+#text5{
+    font-size: 15px;
+    font-weight: bold;
+}
+#text6{
+    font-size: 15px;
+    font-weight: bold;
+}
+#bt1{
+    height: 30px;
+    width: 130px;
+    background-color: pink;
+    border-radius: 10px;
+    color: green;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+#About{
+    border: solid 1px;
+    height: 630px;
+    background-color: lightblue;
+    padding: 335px;
+}
+#aboutme{
+    font-size: 50px;
+    color: blueviolet;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
